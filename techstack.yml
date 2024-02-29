@@ -1,0 +1,131 @@
+repo_name: 2lambda123/maxwell1
+report_id: 5dc83e0e58323cc5c5a15907577d7f58
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:13:33+00:00'
+requested_by: x1001100011
+provider: github
+branch: master
+detected_tools_count: 10
+tools:
+- name: Elixir
+  description: Dynamic, functional language designed for building scalable and maintainable
+    applications
+  website_url: http://elixir-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1974/drop.png
+  detection_source_url: https://github.com/2lambda123/maxwell1
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/maxwell1/blob/master/mix.exs
+  detection_source: mix.exs
+  last_updated_by: Kian Meng Ang
+  last_updated_on: 2020-11-20 13:44:11.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/maxwell1/blob/master/mix.exs
+  detection_source: mix.exs
+  last_updated_by: zhongwencool
+  last_updated_on: 2016-03-22 12:45:41.000000000 Z
+- name: Credo
+  description: A static code analysis tool for the Elixir language
+  website_url: http://credo-ci.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5767/logo-462574d6fafd52114ceb5556a09cdf5a.png
+  detection_source_url: https://github.com/2lambda123/maxwell1/blob/master/mix.exs
+  detection_source: mix.exs
+  last_updated_by: taotao.lin
+  last_updated_on: 2020-12-01 11:07:41.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/maxwell1
+  detection_source: Repo Metadata
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/2lambda123/maxwell1/blob/master/mix.exs
+  detection_source: mix.exs
+  last_updated_by: zhongwencool
+  last_updated_on: 2016-03-22 12:45:41.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/maxwell1/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: zhongwencool
+  last_updated_on: 2017-04-21 07:38:25.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/maxwell1/blob/master/mix.exs
+  detection_source: mix.exs
+  last_updated_by: zhongwencool
+  last_updated_on: 2016-03-22 12:45:41.000000000 Z
+- name: Fuse
+  description: Mobile interfaces for your IT systems
+  website_url: https://www.fusetools.com
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Web and Video Conferencing
+  image_url: https://img.stackshare.io/service/7781/R8SVM7RQ_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/maxwell1/blob/master/mix.exs
+  detection_source: mix.exs
+  last_updated_by: zhongwencool
+  last_updated_on: 2016-03-22 12:45:41.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/maxwell1
+  detection_source: Repo Metadata
